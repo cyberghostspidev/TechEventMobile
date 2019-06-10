@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource majorVersion="1" minorVersion="10" useXmlUI="false">
+    <theme name="TechEvent">
+        <val key="@includeNativeBool" value="true" />
+        <val key="align" value="4" />
+        <val key="fgColor" value="ff0000" />
+        <font key="font" type="ttf" face="0" style="1" size="16" name="native:MainBold" family="native:MainBold" sizeSettings="3" actualSize="15.0" />
+    </theme>
+    <image name="techevent.png"  />
+    <theme name="Theme">
+        <val key="@includeNativeBool" value="true" />
+    </theme>
+</resource>
